@@ -1,7 +1,7 @@
 # Gomoku-AI (PART 2)
 basic Gomoku AI using minimax
-You can find the Mnimax algorithm here (https://www.youtube.com/watch?v=l-hh51ncgDI)
-the basic game can be found in link(https://github.com/shalayiding/Gomoku-Game)
+>You can find the Mnimax algorithm here (https://www.youtube.com/watch?v=l-hh51ncgDI).<br/>
+>the basic game can be found in link(https://github.com/shalayiding/Gomoku-Game).
 
 ## How to
     1.install python 2.x or 3.x(recommended)
